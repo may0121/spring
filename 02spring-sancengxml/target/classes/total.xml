@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+    <!--    首先创建底层对象  dao-service-controller-->
+    <bean id="uMapper" class="com.bjpowernode.dao.impl.UserMapperImpl">
+    <!--    在类中没有属性就不用在spring中注入-->
+    </bean>
+
+<!--    serivce 对象-->
+    <bean id="uService" class="com.bjpowernode.service.impl.UsersServiceImpl">
+<!--        有对象就注入对象-->
+        <property name="usersMapper" ref="uMapper"></property>
+    </bean>
+
+<!--    controller 对象-->
+    <bean id="uController" class="com.bjpowernode.controller.UsersController">
+<!--        对象注入-->
+        <property name="usersService" ref="uService"></property>
+    </bean>
+
+</beans>

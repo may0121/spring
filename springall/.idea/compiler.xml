@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="05spring_aop" />
+        <module name="03spring-annotation" />
+        <module name="spring02-sancengxml" />
+        <module name="04spring-sanceng-annotation" />
+        <module name="spring02" />
+        <module name="07spring_sm" />
+        <module name="06spring_aspectj" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="02spring" target="1.8" />
+      <module name="02spring-sancengxml" target="1.8" />
+      <module name="03spring-annotation" target="1.8" />
+      <module name="04spring-sanceng-annotation" target="1.8" />
+      <module name="05spring_aop" target="1.8" />
+      <module name="06spring_aspectj" target="1.8" />
+      <module name="07spring_sm" target="1.8" />
+      <module name="spring01" target="1.8" />
+      <module name="spring02" target="1.8" />
+      <module name="spring02 - sancengxml" target="1.8" />
+      <module name="spring02-sancengxml" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

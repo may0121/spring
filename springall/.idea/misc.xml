@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../spring02/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring02 - sancengxml/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring02-sancengxml/pom.xml" />
+        <option value="$PROJECT_DIR$/../03spring-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../04spring-sanceng-annotation/pom.xml" />
+        <option value="$PROJECT_DIR$/../05spring_aop/pom.xml" />
+        <option value="$PROJECT_DIR$/../06spring_aspectj/pom.xml" />
+        <option value="$PROJECT_DIR$/../07spring_sm/pom.xml" />
+        <option value="$PROJECT_DIR$/../02spring/pom.xml" />
+        <option value="$PROJECT_DIR$/../02spring-sancengxml/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

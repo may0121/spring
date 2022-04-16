@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../03spring-annotation/03spring-annotation.iml" filepath="$PROJECT_DIR$/../03spring-annotation/03spring-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04spring-sanceng-annotation/04spring-sanceng-annotation.iml" filepath="$PROJECT_DIR$/../04spring-sanceng-annotation/04spring-sanceng-annotation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../05spring_aop/05spring_aop.iml" filepath="$PROJECT_DIR$/../05spring_aop/05spring_aop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../06spring_aspectj/06spring_aspectj.iml" filepath="$PROJECT_DIR$/../06spring_aspectj/06spring_aspectj.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07spring_sm/07spring_sm.iml" filepath="$PROJECT_DIR$/../07spring_sm/07spring_sm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02spring/spring02.iml" filepath="$PROJECT_DIR$/../02spring/spring02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../02spring-sancengxml/spring02-sancengxml.iml" filepath="$PROJECT_DIR$/../02spring-sancengxml/spring02-sancengxml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springall.iml" filepath="$PROJECT_DIR$/springall.iml" />
+    </modules>
+  </component>
+</project>
